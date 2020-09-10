@@ -1,0 +1,15 @@
+.file-upload-text {
+    color: #666666;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 99%;
+    height: 215px;
+    border: 1px solid black;
+    text-align: center;
+    margin-left: 1%;
+}
+
+.filter-style{
+    margin-bottom: 2%;
+}
